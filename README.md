@@ -20,8 +20,8 @@ As I mentioned above I tried:
 •	Random Forest
 
 ## Model performance
-Linear Regression: MAE = 4.22
+Linear Regression: MAE = 4.21
 
-Lasso Regression: MAE = 4.20
+Lasso Regression: MAE = 4.19
 
-Random Forest: MAE = 4.63
+Random Forest: MAE = 4.60
