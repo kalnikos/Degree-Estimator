@@ -1,9 +1,9 @@
-# Degree-Estimator
-•	This project coming after the exploratory students degree analysis which forms the conclusion that the math course it was difficult for all the students. I created a tool that estimate degrees( MAE 3.2 grade) in order to help the students strategy before the math exams.
+# Scores-Estimator
+•	This project coming after the exploratory students scores analysis which forms the conclusion that the math course it was difficult for all the students. I created a tool that estimate scores( MAE 4.19 grade) in order to help the students strategy before the math exams.
 
-•	I found the data set at Kaggle with over than a 1000 students grades
+•	I found the data set at Kaggle with over than a 1000 students scores in three different courses 
 
-•	Optimized Linear, Lasso and Random Forest Regression in Order to reach the best model
+•	Optimized Multiple Linear, Lasso and Random Forest Regression in order to reach the best model
 
 ## Model Building
 
