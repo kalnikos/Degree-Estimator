@@ -7,7 +7,7 @@
 
 ## Model Building
 
-Initially I transformed the categorical variables into dummy variables. In addition I split the data into training and test split with a test size of 20%.
+Initially, I transformed the categorical variables into dummy variables. In addition, I split the data into training and test split with 20% test size.
 
 I tried tree different models and evaluated them with the Mean Absolute Error. I choose the MAE because is easy to interpret the results and it fits nice at that type of problems.
 
